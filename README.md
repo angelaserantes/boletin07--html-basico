@@ -8,3 +8,7 @@
 
 
 ![resultado](/resultado.png)
+
+[githubpages_quienes](https://angelaserantes.github.io/boletin07--html-basico/quienes.html)
+
+[githubpages_texto](https://angelaserantes.github.io/boletin07--html-basico/texto.html)
